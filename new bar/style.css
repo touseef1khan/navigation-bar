@@ -1,0 +1,130 @@
+body {
+
+    text-decoration: none !important;
+
+}
+
+.navbar {
+
+    list-style: none;
+    background-color: rgb(17, 13, 13);
+    color: white;
+    border-radius: 10px;
+}
+
+ul {
+
+    overflow: auto;
+
+}
+
+li {
+
+    list-style: none;
+    float: left;
+
+}
+
+nav {
+
+    color: whitesmoke;
+
+}
+
+
+#home {
+
+    padding: 24px 55px;
+
+}
+
+#home:hover {
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(214, 255, 168);
+    padding: 24px 55px;
+    border-radius: 5px;
+
+}
+
+#menu {
+
+    padding: 24px 70px;
+
+}
+
+#menu:hover {
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(214, 255, 168);
+    padding: 24px 70px;
+    border-radius: 10px;
+
+}
+
+#services {
+
+    padding: 24px 85px;
+
+}
+
+#services:hover {
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(214, 255, 168);
+    padding: 24px 85px;
+    border-radius: 10px;
+
+}
+
+#contactus {
+
+    padding: 24px 100px;
+
+}
+
+#contactus:hover {
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(214, 255, 168);
+    padding: 24px 100px;
+    border-radius: 10px;
+}
+
+.search {
+
+    float: right;
+    padding-top: 12px;
+    padding: 9px 17px;
+    margin: 15px 10px;
+    border: 5px solid;
+    border-radius: 15px;
+
+}
+.content-area {
+    width: 100%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .highlight {
+    font-weight: bold;
+    color: #00698f;
+  }
+  h1 {
+    color: #333;
+  }
+  h2 {
+    color: #444;
+    margin-top: 40px;
+  }
+  ul {
+    list-style: disc;
+    padding: 20px;
+  }
+  li {
+    margin-bottom: 10px;
+  }
